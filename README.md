@@ -39,24 +39,6 @@ npm install
 npm start
 ```
 
-# Run Cypress Script
-
-## Install dependencies and run test.
-
-```bash
-cd /Cypress
-
-```
-
-```bash
-npm install or npm i
-```
-
-```bash
-npm run test
-```
-
-After executing the npm run test command, a Cypress popup window will open, where you must select the browser with which you want to perform the test, then select the script you want to run and finally the test will be performed automatically and the results will be displayed on the left side of the screen.
 
 ## Environment variables
 
